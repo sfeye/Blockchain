@@ -1,6 +1,5 @@
 pragma solidity ^0.5.0;
 
-
 contract VoterRegistration {
     // This declares a new complex type which will
     // be used for variables later.
